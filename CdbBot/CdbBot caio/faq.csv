@@ -1,0 +1,10 @@
+Pergunta,Resposta
+O que é programação orientada a objetos?,"A Programação Orientada a Objetos (POO) é um paradigma de programação que organiza o código em torno de objetos, que são instÃ¢ncias de classes. Ela se baseia nos conceitos de encapsulamento, herança e polimorfismo, permitindo a criação de software mais modular, reutilizével e flexÃ­vel."
+Quais são os pilares da orientação a objetos?,"Os pilares da Orientação a Objetos são:
+1. Encapsulamento: Protege os dados e funcionalidades internas de uma classe, permitindo o acesso controlado através de interfaces.
+2. Herança: Permite a criação de novas classes baseadas em classes existentes, aproveitando atributos e comportamentos já implementados.
+3. Polimorfismo: Permite que objetos de classes diferentes possam ser tratados de forma semelhante, através de interfaces e herança."
+Para que serve herança?,"A herança na Programação Orientada a Objetos é usada para criar novas classes a partir de classes já existentes. Ela permite que a nova classe herde atributos e métodos da classe base (ou superclasse), evitando a duplicação de código. A herança facilita a reutilização de código, promove a organização hierérquica das classes e permite a especialização de comportamentos."
+Por que utilizar encapsulamento?,"O encapsulamento é utilizado na Programação Orientada a Objetos para proteger os dados e funcionalidades internas de uma classe, permitindo um controle mais preciso sobre seu acesso e manipulação. Ele ajuda a evitar alteraçÃµes indesejadas nos dados, garantindo a consistÃªncia do objeto. Além disso, o encapsulamento facilita a manutenção do código, permitindo que alteraçÃµes internas na classe não afetem outras partes do programa que a utilizam."
+Quem sou eu?,"Sou um bot desenvolvido para o trabalho de Fábrica de Software da UNISC."
+Qual a capital do brasil?,"A capital do brasil é Brasília."
